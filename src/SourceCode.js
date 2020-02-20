@@ -5,7 +5,7 @@ export default function SourceCode() {
   return (
     <div className="SourceCode">
       <small>
-        <a href="/">Open-source code</a> by mildani{" "}
+        <a href="https://github.com/mildani/weather-react">Open-source code</a> by mildani{" "}
       </small>
     </div>
   );
